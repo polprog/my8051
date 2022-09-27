@@ -29,12 +29,9 @@ The makefile uses Icarus Verilog for simulation
 You need SDCC assembler for 8051 (sdas8051) to assemble the test
 listings. You can also assemble them by hand.
 
-
-
-
 Copying
 =======
-Except otherwise stated, the files are
+Unless otherwise stated, the files are
 
 Copyright 2022 polprog
 
