@@ -10,9 +10,9 @@ The `r8051.v` and `instruction.v` is the Verilog source code for an
 
 The main Verilog module is `top.v`. `test.v` is the Icarus Verilog testbench.
 
-The `8051_leds/` contains a KiCad project for a small addon board that
-plugs on the HUB75 header. It's angled so that its parallel with the
-main PCB.
+The `8051_leds/` directory contains a KiCad project for a small addon
+board that plugs on the HUB75 header. It's angled so that its parallel
+with the main PCB.
 
 `tools/bin2memh.py` is a script that can convert a file to a hex file
 that is loaded with $readmemh directive. This is not an Intel HEX
