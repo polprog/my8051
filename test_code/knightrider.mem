@@ -1,0 +1,9 @@
+// bin2memh knightrider.bin > knightrider.mem
+74
+01
+23
+f5
+90
+02
+00
+02
